@@ -1,1 +1,1 @@
-Smooth Scroll Website using HTML, CSS & JAVASCRIPT
+A website using HTML, CSS, and Javascript. The site is fully responsive and has a smooth scroll effect that highlights the navbar menu based on your position scrolled.
