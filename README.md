@@ -1,3 +1,6 @@
+Personal projects 
+
+with
 
 The Tech Academy Course and Exercises
 
